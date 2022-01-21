@@ -9,12 +9,12 @@
 * _HTML_
 * _CSS_
 * _Bootstrap_
-* _Javascript_
+* _JavaScript_
 * _jQuery_
 
 ## Description
 
-_In this website I learned how to use jQuery methods such as .toggle() in order to hide and show an image. I used div, spans, and id to identify specific elements I wanted to select. I used CSS to display a specific color to the "click here" link. I also changed the cursor to pointer._
+_In this website I learned how to use jQuery methods such as .toggle(), .hide(), .show() in order to hide and show an image. I used span tags to limit the scope of CSS and JavaScript. I used classes for elements that show up throughout the web page. I used IDs for elements that only show up once. I used CSS to display a specific color to the "click here" link. I also changed the cursor to pointer._
 
 ## Setup/Installation Requirements
 
