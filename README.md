@@ -1,6 +1,6 @@
 # _Peek-a-boo_
 
-#### By _**Z Perez**_
+#### By _**Z Perez and Mikah Mathews**_
 
 #### _I created a website to demonstrate my HTML, CSS, javascript, and jQuery skills._
 
@@ -32,5 +32,5 @@ _In this website I learned how to use jQuery methods such as .toggle(), .hide(),
 
 _MIT_
 
-Copyright (c) _2022_ _Z Perez_
+Copyright (c) _2022_ _Z Perez & Mikah Mathews_
 
